@@ -1,0 +1,4 @@
+/target
+DeepSpeech-0.4.0
+models
+**/*.rs.bk

@@ -1,0 +1,10 @@
+[package]
+name = "free-speech"
+version = "0.1.0"
+authors = ["Koleman Nix <kolemannix@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+deepspeech = "0.2"
+portaudio = "0.7"
+audrey = "0.2"
