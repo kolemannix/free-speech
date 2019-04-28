@@ -1,5 +1,5 @@
 # free-speech
-The idea is to try to build a free, cross-platform voice coding tool backed by Mozilla's DeepSpeech api. 
+The idea is to try to build a free, cross-platform voice coding tool backed by Mozilla's [DeepSpeech](https://github.com/mozilla/DeepSpeech) api. 
 
 # Nothing to see here, yet
 This is in the pre-protoype phase, just cobbling together crates and tools to see what's possible.
